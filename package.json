@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "vk-miniapps-deploy",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://github.com/Dementor13/Mini-App"
+    "deploy": "gh-pages -d build -r https://github.com/Dementor13/Test"
   },
   "keywords": [],
   "author": "",
